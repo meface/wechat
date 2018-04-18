@@ -8,7 +8,6 @@
             "email": "i@7755.me"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
