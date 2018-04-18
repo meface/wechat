@@ -1,7 +1,6 @@
 {
     "name": "meface/oauth",
     "description": "echo hello world",
-    "license": "MIT License",
     "authors": [
         {
             "name": "meface",
