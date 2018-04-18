@@ -1,0 +1,18 @@
+{
+    "name": "wechat/oauth",
+    "description": "echo hello world",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "meface",
+            "email": "i@7755.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wechat\\": "src/"
+        }
+    }
+}
